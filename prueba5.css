@@ -1,0 +1,21 @@
+body {
+    background-color: #111;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .mouse-trail {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #f00;
+    z-index: -1;
+    opacity: 0;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .mouse-trail.visible {
+    opacity: 1;
+  }
+  

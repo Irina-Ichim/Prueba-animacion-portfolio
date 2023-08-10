@@ -68,3 +68,4 @@ function onDocumentMouseMove(event) {
   mouseY = event.clientY;
 }
 
+renderer.render(scene, camera);

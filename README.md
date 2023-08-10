@@ -1,8 +1,7 @@
-# Proyecto para Portafolio
+# Pruebas para Portafolio
 
 Este proyecto es parte de mi portafolio y contiene varias pruebas de concepto y demostraciones. Cada prueba está organizada en archivos HTML separados. A continuación, se muestra una descripción de cada una de ellas:
 
-## Pruebas
 
 # Proyecto con Efecto de Movimiento de Cursor y Three.js
 
